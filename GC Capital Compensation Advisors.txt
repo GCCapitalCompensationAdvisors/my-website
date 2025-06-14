@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GC Capital Compensation Advisors</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 30px;
+      color: #222;
+      background-color: #fff;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    h1 {
+      color: #003366;
+      font-weight: 700;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #003366;
+      margin-bottom: 15px;
+      font-weight: 600;
+      font-size: 1.8em;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      color: #333;
+      margin-bottom: 20px;
+    }
+    button {
+      background-color: #003366;
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1.1em;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin-top: 10px;
+    }
+    button:hover {
+      background-color: #001f4d;
+    }
+    section {
+      margin-bottom: 60px;
+    }
+    ul {
+      color: #444;
+      list-style-type: disc;
+      margin-left: 20px;
+      font-size: 1.1em;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      border-top: 1px solid #ccc;
+      padding-top: 20px;
+      margin-top: 60px;
+    }
+    a {
+      color: #003366;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GC Capital Compensation Advisors</h1>
+    <p><em>Strategic Compensation to Elevate Your Workforce.</em></p>
+    <button onclick="window.location.href='https://calendly.com/YOUR_LINK'">Schedule a Free 30-Min Consultation</button>
+  </header>
+
+  <section id="about">
+    <h2>Who We Are</h2>
+    <p>At <strong>GC Capital Compensation Advisors</strong>, we specialize in strategic compensation planning and financial modeling tailored to startups and growing businesses in Southern New Jersey. Our mission is to empower companies with data-driven, scalable compensation solutions that attract and retain top talent while supporting sustainable growth.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Compensation Plan Design</strong> – Custom salary bands, equity offer analysis, and bonus structures aligned with your business objectives.</li>
+      <li><strong>Financial Modeling & Forecasting</strong> – Excel-based headcount and cost models to ensure accurate budgeting and growth planning.</li>
+      <li><strong>Sales Commission & Bonus Plan Reviews</strong> – Incentive program optimization to motivate your teams and drive revenue growth.</li>
+    </ul>
+  </section>
+
+  <section id="why-us">
+    <h2>Why Partner With Us?</h2>
+    <ul>
+      <li>Deep expertise in compensation analysis, market benchmarking, and financial modeling</li>
+      <li>Proven, customizable Excel tools built for startups and SMBs</li>
+      <li>Collaborative, hands-on approach delivering actionable insights</li>
+      <li>Based in Southern New Jersey with strong local market understanding</li>
+    </ul>
+  </section>
+
+  <section id="lead-magnet">
+    <h2>Free Hiring Cost Forecaster Excel Tool</h2>
+    <p>Make smarter hiring decisions with a clear view of your future payroll and compensation costs.</p>
+    <button onclick="window.location.href='https://calendly.com/YOUR_LINK'">Download Now / Schedule a Consultation</button>
+  </section>
+
+  <section id="contact">
+    <h2>Ready to Elevate Your Workforce?</h2>
+    <button onclick="window.location.href='https://calendly.com/YOUR_LINK'">Schedule a Free 30-Min Consultation</button>
+  </section>
+
+  <footer>
+    <p>© 2025 GC Capital Compensation Advisors | Serving Southern New Jersey</p>
+  </footer>
+</body>
+</html>
